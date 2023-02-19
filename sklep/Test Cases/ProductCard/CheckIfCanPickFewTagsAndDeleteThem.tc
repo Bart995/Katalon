@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Sprawdź czy możesz wybrać kilka filtrów, a następnie je usunąć z listy</description>
+   <name>CheckIfCanPickFewTagsAndDeleteThem</name>
+   <tag>card</tag>
+   <comment></comment>
+   <testCaseGuid>0a79d3cc-f370-4deb-84a0-efa73da0f2b5</testCaseGuid>
+</TestCaseEntity>

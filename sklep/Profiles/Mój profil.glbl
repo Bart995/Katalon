@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>Mój profil</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description>Strona karty produktu</description>
+      <initValue>'https://magento-demo.mageplaza.com/women/tops-women/jackets-women.html'</initValue>
+      <name>UrlProductCard</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://magento-demo.mageplaza.com/women/tops-women.html'</initValue>
+      <name>UrlProductCardTops</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

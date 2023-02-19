@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Sprawdź czy w menu po lewej możesz w Shopping Options > Style wybrać kategorię i czy po kliknięciu przenosi na nią</description>
+   <name>CheckIfCanChooseStyleFromMenu</name>
+   <tag>Card</tag>
+   <comment></comment>
+   <testCaseGuid>a17f442c-094a-4b0c-91de-3603660ccbee</testCaseGuid>
+</TestCaseEntity>

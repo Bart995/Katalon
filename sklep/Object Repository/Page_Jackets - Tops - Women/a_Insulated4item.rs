@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Insulated4item</name>
+   <tag></tag>
+   <elementGuidId>583dd56f-6f77-4c85-9a7b-c3c415200aa2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='narrow-by-list']/div/div[2]/ol/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ol.items > li.item > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a6e6a7af-6b3d-4311-abd8-79f3d2d8d58c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://magento-demo.mageplaza.com/women/tops-women/jackets-women.html?style_general=116</value>
+      <webElementGuid>3eeadace-d5f6-486c-b244-1267adf7287c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>nofollow</value>
+      <webElementGuid>bf26f875-afac-4432-8c12-5bbee320832e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Insulated4item
+</value>
+      <webElementGuid>a172ddc5-7f66-40ab-81fd-7078036d94e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;narrow-by-list&quot;)/div[@class=&quot;filter-options-item allow active&quot;]/div[@class=&quot;filter-options-content&quot;]/ol[@class=&quot;items&quot;]/li[@class=&quot;item&quot;]/a[1]</value>
+      <webElementGuid>71e543b8-a29d-4df6-99bb-403d714413ea</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='narrow-by-list']/div/div[2]/ol/li/a</value>
+      <webElementGuid>e17c2fcd-40f5-425f-9de1-75ab14de31f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Style'])[1]/following::a[1]</value>
+      <webElementGuid>7494b840-b43e-436c-b534-b23f83b38172</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shopping Options'])[1]/following::a[1]</value>
+      <webElementGuid>5a2c0fcb-711d-49ee-870b-9fe93e014787</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Insulated']/parent::*</value>
+      <webElementGuid>33bb495f-178f-413a-b993-fcd32118562c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://magento-demo.mageplaza.com/women/tops-women/jackets-women.html?style_general=116')]</value>
+      <webElementGuid>5b16b211-f2a6-4f5a-8335-a885241d3261</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ol/li/a</value>
+      <webElementGuid>565ae5c2-a737-45b1-9512-a3d3a5eb8949</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://magento-demo.mageplaza.com/women/tops-women/jackets-women.html?style_general=116' and (text() = 'Insulated4item
+' or . = 'Insulated4item
+')]</value>
+      <webElementGuid>0f9efdf6-0b26-4f78-afd4-d24616af54c3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

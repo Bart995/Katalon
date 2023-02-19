@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Sprawdź czy widoczne jest menu po lewej stronie</description>
+   <name>CheckIfMenuIsVisible</name>
+   <tag>Card</tag>
+   <comment></comment>
+   <testCaseGuid>0dcd807f-1942-44b1-8b17-1f13cd3b454e</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Sprawdź czy możesz zmienić ilość produktów widocznych na stronie</description>
+   <name>CheckIfCanChangeProductsQuanity</name>
+   <tag>Card</tag>
+   <comment></comment>
+   <testCaseGuid>b264d0aa-27bb-4db9-a7b1-fccc15e1408c</testCaseGuid>
+</TestCaseEntity>

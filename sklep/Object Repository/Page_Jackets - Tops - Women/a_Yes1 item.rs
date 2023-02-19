@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Yes1 item</name>
+   <tag></tag>
+   <elementGuidId>9f10fc51-01ec-40f3-bd5d-7e827c97c089</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='narrow-by-list']/div[4]/div[2]/ol/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.filter-options-item.allow.active > div.filter-options-content > ol.items > li.item > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3d110a47-9dbf-41df-bb99-796e391d8d5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://magento-demo.mageplaza.com/women/tops-women/jackets-women.html?color=50&amp;performance_fabric=1&amp;style_general=116</value>
+      <webElementGuid>66b943b1-8439-47e2-b195-c80740e8ab13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>nofollow</value>
+      <webElementGuid>b3951efc-9617-4478-8186-f3f178e310d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Yes1 item
+</value>
+      <webElementGuid>a39b7bef-6f13-4827-8116-844d989fecfe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;narrow-by-list&quot;)/div[@class=&quot;filter-options-item allow active&quot;]/div[@class=&quot;filter-options-content&quot;]/ol[@class=&quot;items&quot;]/li[@class=&quot;item&quot;]/a[1]</value>
+      <webElementGuid>18d803d6-f9c9-4525-96bc-690df280ca2b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='narrow-by-list']/div[4]/div[2]/ol/li/a</value>
+      <webElementGuid>5d235743-81e2-4353-85f3-32ea838dfccc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Performance Fabric'])[1]/following::a[1]</value>
+      <webElementGuid>c2d0c1b2-2a4e-4764-b5c8-e6c6f60d350f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='item'])[3]/following::a[1]</value>
+      <webElementGuid>d7c4ea0d-08f2-4a42-b837-2caf68cc206f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Erin Recommends'])[1]/preceding::a[1]</value>
+      <webElementGuid>146e3c54-dffa-4992-8b6a-20c5b17b5931</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Yes']/parent::*</value>
+      <webElementGuid>2e4fecb3-5cb7-44c8-885e-38a761faf650</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://magento-demo.mageplaza.com/women/tops-women/jackets-women.html?color=50&amp;performance_fabric=1&amp;style_general=116')]</value>
+      <webElementGuid>6f82ed35-5e4c-4833-a698-ad5a9d16593f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/ol/li/a</value>
+      <webElementGuid>94d0798a-ad6c-4912-bdf3-31cb609c317d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://magento-demo.mageplaza.com/women/tops-women/jackets-women.html?color=50&amp;performance_fabric=1&amp;style_general=116' and (text() = 'Yes1 item
+' or . = 'Yes1 item
+')]</value>
+      <webElementGuid>7ee50573-5712-4663-8dad-f447d4f3a946</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

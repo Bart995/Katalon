@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Sprawdź czy dla dowolnego produktu możesz wybrać rozmiar, kolor i dodać go do koszyka</description>
+   <name>CheckIfCanAddProductToCart</name>
+   <tag>Card</tag>
+   <comment></comment>
+   <testCaseGuid>58c39f4f-28e6-41ea-baa1-99e1121a3513</testCaseGuid>
+</TestCaseEntity>

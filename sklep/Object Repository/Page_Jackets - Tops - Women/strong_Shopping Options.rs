@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>strong_Shopping Options</name>
+   <tag></tag>
+   <elementGuidId>00bf3ab7-8dd6-4ce7-984b-d7e57c7d2819</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>strong.block-subtitle.filter-subtitle</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='layered-filter-block']/div[2]/strong</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>strong</value>
+      <webElementGuid>108c5319-698a-4fbd-9b19-cd23ca1405df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>heading</value>
+      <webElementGuid>c31796b5-68a4-447a-8723-1ad7f119f93c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-level</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>a7836d0c-f3bd-4884-a3d9-15b5f2594f10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>block-subtitle filter-subtitle</value>
+      <webElementGuid>fe78f996-845e-4d6e-a356-fc0179817822</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Shopping Options</value>
+      <webElementGuid>f0a60f73-2262-42cc-bbef-b7b0ca07c859</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;layered-filter-block&quot;)/div[@class=&quot;block-content filter-content&quot;]/strong[@class=&quot;block-subtitle filter-subtitle&quot;]</value>
+      <webElementGuid>8ee150b4-d743-4295-86e7-1dfbb0c10fbf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='layered-filter-block']/div[2]/strong</value>
+      <webElementGuid>f9b87da3-517d-49d8-9f29-ea7f3b9a786a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shop By'])[1]/following::strong[1]</value>
+      <webElementGuid>b31467fc-78ce-4718-8c7a-9d5d1bf78fcc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Set Descending Direction'])[2]/following::strong[2]</value>
+      <webElementGuid>765d30d0-7205-49b8-8a17-13e267b01bb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Style'])[1]/preceding::strong[1]</value>
+      <webElementGuid>2e015e5b-3793-4788-9229-52dfd44edb8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Shopping Options']/parent::*</value>
+      <webElementGuid>9818af76-818c-4400-ac9e-dfa06e70a48d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/strong</value>
+      <webElementGuid>bfcf04f4-a504-4324-b67d-eacd2309654f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//strong[(text() = 'Shopping Options' or . = 'Shopping Options')]</value>
+      <webElementGuid>ebf0a1ed-494c-43ec-8c6c-c0b692a0301a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

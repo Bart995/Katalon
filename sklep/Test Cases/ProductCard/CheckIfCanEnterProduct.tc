@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Sprawdź czy możesz przejść do produktu</description>
+   <name>CheckIfCanEnterProduct</name>
+   <tag>card</tag>
+   <comment></comment>
+   <testCaseGuid>a62620fd-9207-449d-85f0-f9442f30c5d1</testCaseGuid>
+</TestCaseEntity>
